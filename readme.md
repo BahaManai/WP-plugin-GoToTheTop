@@ -1,5 +1,7 @@
 === Go to the Top ===
-![Plugin Logo](https://github.com/BahaManai/WP-plugin-GoToTheTop/blob/main/assets/images/TOPlogo.png)
+
+<img src="https://github.com/BahaManai/WP-plugin-GoToTheTop/blob/main/assets/images/TOPlogo.png" alt="Plugin Logo" width="50"/>
+
 Contributors: baha , simple concept
 Tested up to: 6.4
 Requires at least: 4.6
