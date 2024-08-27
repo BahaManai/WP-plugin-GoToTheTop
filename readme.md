@@ -1,4 +1,5 @@
 === Go to the Top ===
+![Plugin Logo](https://github.com/BahaManai/WP-plugin-GoToTheTop/blob/main/assets/images/TOPlogo.png)
 Contributors: baha , simple concept
 Tested up to: 6.4
 Requires at least: 4.6
@@ -13,5 +14,5 @@ Additionally, the plugin allows you to choose from a variety of icons provided b
 To use this plugin, simply download the folder, replace it in the plugins directory of your WordPress installation, and activate it. Once activated, you’ll find a new “GoToTheTop Settings” option in the WordPress settings menu, where you can customize and enable your button.
 
 Don’t forget to share your feedback—I’d love to hear your thoughts!
-![Plugin Logo](https://github.com/BahaManai/WP-plugin-GoToTheTop/blob/main/assets/images/TOPlogo.png)
+
 
