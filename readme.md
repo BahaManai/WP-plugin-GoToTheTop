@@ -16,5 +16,5 @@ Additionally, the plugin allows you to choose from a variety of icons provided b
 To use this plugin, simply download the folder, replace it in the plugins directory of your WordPress installation, and activate it. Once activated, you’ll find a new “GoToTheTop Settings” option in the WordPress settings menu, where you can customize and enable your button.<br>
 
 Don’t forget to share your feedback—I’d love to hear your thoughts!
-
+![Screenshot (55)](https://github.com/BahaManai/WP-plugin-GoToTheTop/blob/main/assets/images/Screenshot.png)
 
